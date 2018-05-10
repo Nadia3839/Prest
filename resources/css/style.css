@@ -29,3 +29,7 @@ h2.Paint {
 strong {
   color: blue;
 }
+
+.finnish {
+  background-image: url("../resources/images/finnish.jpeg");
+}
